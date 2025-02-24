@@ -1,0 +1,5 @@
+2025-02-23 12:05:37.935 [info] Log level: Info
+2025-02-23 12:05:41.283 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-02-23 12:05:41.284 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-02-23 12:05:42.630 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for chiscobyte/README.md: Error: No GitHub authentication session available.
+2025-02-23 12:05:42.630 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.

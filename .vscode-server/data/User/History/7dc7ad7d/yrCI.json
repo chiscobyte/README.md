@@ -1,0 +1,5 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true
+}

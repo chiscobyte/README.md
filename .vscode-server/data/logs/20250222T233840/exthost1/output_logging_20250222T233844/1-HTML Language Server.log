@@ -1,0 +1,6 @@
+[Error - 11:41:06 PM] Request textDocument/hover failed.
+Error: Starting server failed
+    at D.$start (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:283887)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D.sendRequest (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:267373)
+    at NC.provideHover (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:135:129903)

@@ -1,0 +1,36 @@
+0 verbose cli /home/chisco/.nvm/versions/node/v22.14.0/bin/node /home/chisco/.nvm/versions/node/v22.14.0/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.14.0
+3 silly config load:file:/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/chisco/.npmrc
+5 silly config load:file:/home/chisco/.nvm/versions/node/v22.14.0/etc/npmrc
+6 verbose title npm test
+7 verbose argv "test"
+8 verbose logfile logs-max:10 dir:/home/chisco/.npm/_logs/2025-02-24T16_20_52_821Z-
+9 verbose logfile /home/chisco/.npm/_logs/2025-02-24T16_20_52_821Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 verbose stack Error: Could not read package.json: Error: ENOENT: no such file or directory, open '/home/chisco/package.json'
+12 verbose stack     at async open (node:internal/fs/promises:638:25)
+12 verbose stack     at async readFile (node:internal/fs/promises:1242:14)
+12 verbose stack     at async read (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/read-package.js:9:18)
+12 verbose stack     at async PackageJson.load (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/index.js:131:31)
+12 verbose stack     at async PackageJson.normalize (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/index.js:117:5)
+12 verbose stack     at async #run (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/lib/commands/run-script.js:86:13)
+12 verbose stack     at async RunScript.exec (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/lib/commands/run-script.js:40:7)
+12 verbose stack     at async Npm.exec (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/lib/npm.js:207:9)
+12 verbose stack     at async module.exports (/home/chisco/.nvm/versions/node/v22.14.0/lib/node_modules/npm/lib/cli/entry.js:74:5)
+13 error code ENOENT
+14 error syscall open
+15 error path /home/chisco/package.json
+16 error errno -2
+17 error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/chisco/package.json'
+18 error enoent This is related to npm not being able to find a file.
+18 error enoent
+19 verbose cwd /home/chisco
+20 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+21 verbose node v22.14.0
+22 verbose npm  v10.9.2
+23 verbose exit -2
+24 verbose code -2
+25 error A complete log of this run can be found in: /home/chisco/.npm/_logs/2025-02-24T16_20_52_821Z-debug-0.log

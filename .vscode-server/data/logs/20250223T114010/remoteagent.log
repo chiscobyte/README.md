@@ -1,0 +1,37 @@
+2025-02-23 11:40:10.838 [info] 
+
+
+
+
+2025-02-23 11:40:10.859 [info] Extension host agent started.
+2025-02-23 11:40:10.991 [info] [127.0.0.1][68477204][ManagementConnection] New connection established.
+2025-02-23 11:40:11.285 [info] [127.0.0.1][f2d9b54f][ExtensionHostConnection] New connection established.
+2025-02-23 11:40:11.473 [info] [127.0.0.1][f2d9b54f][ExtensionHostConnection] <751> Launched Extension Host Process.
+2025-02-23 11:40:45.002 [info] [127.0.0.1][68477204][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-23 11:40:45.111 [info] [127.0.0.1][f2d9b54f][ExtensionHostConnection] <751> Extension Host Process exited with code: 0, signal: null.
+2025-02-23 11:40:47.203 [info] [127.0.0.1][30cd18cc][ManagementConnection] New connection established.
+2025-02-23 11:40:47.611 [info] [127.0.0.1][63d2fbb4][ExtensionHostConnection] New connection established.
+2025-02-23 11:40:47.617 [info] [127.0.0.1][63d2fbb4][ExtensionHostConnection] <923> Launched Extension Host Process.
+2025-02-23 11:41:42.853 [info] [127.0.0.1][63d2fbb4][ExtensionHostConnection] <923> [0mGET /favicon.ico [33m404[0m 1.714 ms - 150[0m
+
+2025-02-23 12:05:25.930 [info] [127.0.0.1][30cd18cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-23 12:05:26.136 [info] [127.0.0.1][63d2fbb4][ExtensionHostConnection] <923> Extension Host Process exited with code: 0, signal: null.
+2025-02-23 12:05:28.099 [info] [127.0.0.1][406dc9c0][ManagementConnection] New connection established.
+2025-02-23 12:05:28.505 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] New connection established.
+2025-02-23 12:05:28.513 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] <5343> Launched Extension Host Process.
+2025-02-23 12:31:14.088 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] The client has reconnected.
+2025-02-23 12:31:14.676 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has reconnected.
+2025-02-23 13:28:38.010 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has reconnected.
+2025-02-23 13:28:39.017 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] The client has reconnected.
+2025-02-23 13:51:37.057 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-23 13:51:37.226 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-23 13:51:38.664 [info] [127.0.0.1][406dc9c0][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-23 13:51:38.670 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] The client has reconnected.
+2025-02-23 13:51:39.118 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has reconnected.
+2025-02-23 14:04:57.401 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has reconnected.
+2025-02-23 14:04:58.059 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] The client has reconnected.
+2025-02-23 14:14:11.291 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] The client has reconnected.
+2025-02-23 14:14:11.823 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has reconnected.
+2025-02-23 14:34:16.734 [info] [127.0.0.1][406dc9c0][ManagementConnection] The client has reconnected.
+2025-02-23 14:34:22.400 [info] [127.0.0.1][773f99c7][ExtensionHostConnection] The client has reconnected.

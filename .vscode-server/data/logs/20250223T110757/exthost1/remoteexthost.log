@@ -1,0 +1,618 @@
+2025-02-23 11:07:59.918 [info] Extension host with pid 785 started
+2025-02-23 11:07:59.918 [error] Error: EEXIST: file already exists, open '/home/chisco/.vscode-server/data/User/workspaceStorage/2cad69525eb07a05a5ce64a4ae134fb0/vscode.lock'
+2025-02-23 11:08:00.004 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/2cad69525eb07a05a5ce64a4ae134fb0/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-02-23 11:08:00.028 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/2cad69525eb07a05a5ce64a4ae134fb0/vscode.lock': The pid 860 appears to be gone.
+2025-02-23 11:08:00.029 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/2cad69525eb07a05a5ce64a4ae134fb0/vscode.lock': Deleting a stale lock.
+2025-02-23 11:08:00.122 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-02-23 11:08:00.126 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-23 11:08:00.129 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-23 11:08:00.464 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/2cad69525eb07a05a5ce64a4ae134fb0/vscode.lock': Lock acquired.
+2025-02-23 11:08:01.139 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-23 11:08:01.140 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-02-23 11:08:01.272 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-23 11:08:01.272 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-23 11:08:01.838 [info] Eager extensions activated
+2025-02-23 11:08:01.839 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-23 11:08:01.840 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-23 11:08:01.844 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-23 11:08:01.852 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-23 11:08:01.858 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-23 11:08:05.795 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9157
+2025-02-23 11:08:07.374 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9157
+2025-02-23 11:08:09.074 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9157
+2025-02-23 11:08:23.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:28.419 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:33.582 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:36.668 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:43.912 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:49.054 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:54.193 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:08:59.416 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:04.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:09.764 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:17.119 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:22.273 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:27.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:32.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:37.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:42.853 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:50.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:09:55.625 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:00.762 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:05.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:11.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:16.172 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:23.522 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:28.682 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:33.825 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:38.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:44.104 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:49.249 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:10:54.395 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:01.970 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:07.128 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:12.266 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:17.415 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:22.554 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:27.695 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:35.249 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:40.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:45.525 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:50.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:11:55.823 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:00.973 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:08.534 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:13.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:18.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:23.953 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:29.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:34.229 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:41.799 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:46.949 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:52.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:12:57.231 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:02.377 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:07.539 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:12.701 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:20.221 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:25.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:30.494 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:35.632 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:40.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:45.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:53.493 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:13:58.629 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:03.774 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:08.912 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:14.054 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:19.195 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:26.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:31.900 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:37.047 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:42.195 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:47.336 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:14:52.475 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:00.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:05.251 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:10.396 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:15.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:20.708 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:25.853 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:31.035 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:38.604 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:43.756 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:48.902 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:54.046 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:15:59.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:04.332 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:11.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:17.092 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:22.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:27.371 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:32.513 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:37.656 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:45.319 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:50.452 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:16:55.590 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:00.730 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:05.872 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:11.030 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:18.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:23.795 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:28.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:34.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:39.227 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:44.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:49.531 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:17:57.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:02.328 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:07.468 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:12.616 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:17.759 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:22.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:30.379 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:35.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:40.662 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:45.800 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:50.953 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:18:56.097 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:03.306 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:08.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:13.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:18.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:23.920 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:29.078 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:34.219 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:41.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:46.952 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:52.093 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:19:57.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:02.387 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:07.534 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:15.058 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:20.204 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:25.346 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:30.486 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:20:35.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:26:13.778 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:26:38.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:26:43.484 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:26:48.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:26:53.781 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:26:58.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:04.095 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:11.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:17.065 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:22.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:27.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:32.500 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:37.668 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:45.593 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:50.763 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:27:55.921 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:28:01.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9154
+2025-02-23 11:28:06.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:28:11.359 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:28:12.499 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-02-23 11:28:12.499 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-02-23 11:28:13.141 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-02-23 11:31:46.957 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:31:53.887 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:31:59.038 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:04.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:09.384 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:14.530 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:19.884 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:29.417 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:34.569 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:39.707 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:44.843 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:50.027 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:32:55.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:02.713 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:07.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:13.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:18.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:23.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:28.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:37.067 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:42.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:47.363 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:52.518 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:33:57.657 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:34:02.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:34:11.007 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:35:38.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:35:43.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:35:48.732 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:35:57.140 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:36:02.306 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:36:07.451 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:36:12.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:36:17.752 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:36:38.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9153
+2025-02-23 11:36:39.850 [info] Extension host terminating: received terminate message from renderer
+2025-02-23 11:36:39.854 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/2cad69525eb07a05a5ce64a4ae134fb0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-02-23 11:36:40.087 [error] Canceled: Canceled
+    at jc (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155152
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155092)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.087 [error] Canceled: Canceled
+    at jc (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155152
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155092)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.088 [error] Canceled: Canceled
+    at jc (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155152
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155092)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.089 [error] Canceled: Canceled
+    at jc (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155152
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155092)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.092 [error] Canceled: Canceled
+    at new XT (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+    at Uy.U (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at Ah.L [as value] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+    at /home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.093 [error] Canceled: Canceled
+    at new XT (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+    at Uy.U (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at Ah.L [as value] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+    at /home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.095 [error] Canceled: Canceled
+    at new XT (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+    at Uy.U (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at Ah.L [as value] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+    at /home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.097 [error] Canceled: Canceled
+    at new XT (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+    at Uy.U (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at Ah.L [as value] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+    at /home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.109 [error] Canceled: Canceled
+    at new XT (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+    at Uy.U (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/github/dist/extension.js:2:344164)
+    at /home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/github/dist/extension.js:2:345123
+    at Ah.value (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1117802)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+    at /home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Xn.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at Gm.A (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at m6.acceptChunk (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at Ah.value (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at D.B (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.fire (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at BA.z (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+    at BA.acceptFrame (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+    at jA.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+    at file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+    at Socket.t (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-23 11:36:40.134 [info] Extension host with pid 785 exiting with code 0

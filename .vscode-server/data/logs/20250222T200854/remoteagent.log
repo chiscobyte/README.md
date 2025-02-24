@@ -1,0 +1,48 @@
+2025-02-22 20:08:54.993 [info] 
+
+
+
+
+2025-02-22 20:08:55.050 [info] Extension host agent started.
+2025-02-22 20:08:55.371 [info] [127.0.0.1][e6a39400][ManagementConnection] New connection established.
+2025-02-22 20:08:57.613 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] New connection established.
+2025-02-22 20:09:05.629 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2025-02-22 20:09:05.647 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2025-02-22 20:09:05.679 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2025-02-22 20:09:05.732 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] <780> Launched Extension Host Process.
+2025-02-22 20:27:07.004 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:34:21.587 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:37:34.848 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:37:35.468 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:38:12.839 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:38:14.028 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:45:19.616 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:45:20.537 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:45:28.150 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:45:28.667 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:45:32.269 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:45:33.070 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:45:53.716 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:45:54.665 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:46:04.718 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:46:05.538 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:46:21.235 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:46:21.676 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:46:30.369 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:46:31.228 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:46:46.199 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:46:48.527 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:46:49.452 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:46:59.180 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:47:01.807 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:47:04.973 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:47:05.907 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:47:24.694 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:47:25.174 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:48:47.831 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:48:48.471 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:49:00.703 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:49:14.378 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:49:46.036 [info] [127.0.0.1][c2315e0a][ExtensionHostConnection] The client has reconnected.
+2025-02-22 20:49:56.023 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has reconnected.
+2025-02-22 20:51:31.959 [info] [127.0.0.1][e6a39400][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

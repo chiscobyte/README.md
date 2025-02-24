@@ -1,0 +1,36 @@
+2025-02-23 20:07:45.399 [info] 
+
+
+
+
+2025-02-23 20:07:45.440 [info] Extension host agent started.
+2025-02-23 20:07:45.902 [info] [127.0.0.1][d32e1467][ManagementConnection] New connection established.
+2025-02-23 20:07:46.578 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] New connection established.
+2025-02-23 20:07:46.876 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] <808> Launched Extension Host Process.
+2025-02-23 20:15:53.823 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-23 20:15:53.900 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-23 20:15:56.597 [info] [127.0.0.1][d32e1467][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-23 20:15:56.602 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 08:07:29.459 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 08:07:29.676 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 08:14:45.063 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 08:14:45.241 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 09:26:19.773 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 09:26:20.656 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 10:52:07.668 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 10:52:10.885 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 11:06:35.305 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 11:06:36.556 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 11:06:38.967 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 11:06:39.119 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 12:43:13.611 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-24 12:43:13.673 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-24 12:43:18.500 [warning] No ptyHost heartbeat after 6 seconds
+2025-02-24 13:32:40.280 [info] [127.0.0.1][d32e1467][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-24 13:32:40.284 [info] [127.0.0.1][6a7d1ea4][ExtensionHostConnection] The client has reconnected.
+2025-02-24 13:32:40.294 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has reconnected.
+2025-02-24 13:37:44.407 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-24 13:37:44.425 [info] [127.0.0.1][d32e1467][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

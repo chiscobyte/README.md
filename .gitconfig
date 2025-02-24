@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Enock Chisiwa
+	email = enock.chisiwa@student.moringaschool.com
+[init]
+	defaultBranch = main
