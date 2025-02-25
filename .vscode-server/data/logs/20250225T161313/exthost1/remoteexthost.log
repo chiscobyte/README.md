@@ -1,0 +1,20 @@
+2025-02-25 16:13:43.328 [info] Extension host with pid 824 started
+2025-02-25 16:13:43.328 [error] Error: EEXIST: file already exists, open '/home/chisco/.vscode-server/data/User/workspaceStorage/9a24cd703de763f7270f927dfef7d018/vscode.lock'
+2025-02-25 16:13:43.815 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/9a24cd703de763f7270f927dfef7d018/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-02-25 16:13:43.989 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-25 16:13:44.019 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-25 16:13:47.259 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-25 16:13:47.274 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-02-25 16:13:47.781 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/9a24cd703de763f7270f927dfef7d018/vscode.lock': The lock looks stale, waiting for 2s.
+2025-02-25 16:13:49.785 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/9a24cd703de763f7270f927dfef7d018/vscode.lock': The lock looks stale even after waiting for 2s.
+2025-02-25 16:13:49.785 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/9a24cd703de763f7270f927dfef7d018/vscode.lock': Deleting a stale lock.
+2025-02-25 16:13:49.814 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/9a24cd703de763f7270f927dfef7d018/vscode.lock': Lock acquired.
+2025-02-25 16:13:50.631 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-25 16:13:50.640 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-25 16:13:54.710 [info] Eager extensions activated
+2025-02-25 16:13:54.723 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:13:54.727 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:13:54.740 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:13:54.755 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:13:54.759 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:35:24.577 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'

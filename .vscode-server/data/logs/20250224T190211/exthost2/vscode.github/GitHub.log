@@ -1,0 +1,4 @@
+2025-02-24 20:45:16.718 [info] Log level: Info
+2025-02-24 20:56:37.178 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-02-24 22:37:28.538 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for chiscobyte/phase-0-html-experiencing-html-lab: Error: No GitHub authentication session available.
+2025-02-24 23:00:33.640 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.

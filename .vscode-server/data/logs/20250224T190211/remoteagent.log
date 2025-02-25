@@ -9,3 +9,85 @@
 2025-02-24 19:02:19.125 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] <864> Launched Extension Host Process.
 2025-02-24 19:04:17.143 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] <864> [0mGET /favicon.ico [33m404[0m 4.842 ms - 150[0m
 
+2025-02-24 20:45:05.435 [info] [127.0.0.1][d26fc2cb][ManagementConnection] New connection established.
+2025-02-24 20:45:05.967 [info] [127.0.0.1][96a03749][ExtensionHostConnection] New connection established.
+2025-02-24 20:45:05.974 [info] [127.0.0.1][96a03749][ExtensionHostConnection] <22095> Launched Extension Host Process.
+2025-02-24 20:59:18.452 [info] [127.0.0.1][f7b67829][ManagementConnection] New connection established.
+2025-02-24 20:59:18.850 [error] #4: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AggregateError [ETIMEDOUT]: 
+2025-02-24 20:59:19.280 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] New connection established.
+2025-02-24 20:59:19.299 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] <23508> Launched Extension Host Process.
+2025-02-24 21:17:42.316 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-24 21:17:42.652 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-24 21:18:12.063 [info] [127.0.0.1][a02bf86f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-24 21:18:12.173 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-24 21:18:15.328 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-24 21:18:17.924 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-24 21:47:36.913 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-24 21:47:38.211 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-24 21:47:39.637 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-24 21:47:40.757 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-24 21:47:44.497 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has reconnected.
+2025-02-24 21:47:50.769 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] The client has reconnected.
+2025-02-24 22:27:30.060 [warning] No ptyHost heartbeat after 6 seconds
+2025-02-24 22:27:35.252 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-24 22:27:36.867 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-24 22:27:41.194 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-24 22:27:41.707 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-24 22:27:42.141 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] The client has reconnected.
+2025-02-24 22:27:42.568 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has reconnected.
+2025-02-24 23:16:00.855 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-24 23:17:16.483 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] The client has reconnected.
+2025-02-24 23:17:17.832 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-24 23:17:18.337 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-24 23:17:18.961 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has reconnected.
+2025-02-24 23:17:19.245 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-24 23:35:22.075 [info] [127.0.0.1][c8e333e2][ManagementConnection] New connection established.
+2025-02-24 23:35:23.128 [info] [127.0.0.1][64869c04][ExtensionHostConnection] New connection established.
+2025-02-24 23:35:23.153 [info] [127.0.0.1][64869c04][ExtensionHostConnection] <33859> Launched Extension Host Process.
+2025-02-24 23:35:27.612 [info] Getting Manifest... github.copilot
+2025-02-24 23:35:28.769 [info] Installing extension: github.copilot {"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/chisco/.vscode-server/extensions/extensions.json","external":"file:///home/chisco/.vscode-server/extensions/extensions.json","path":"/home/chisco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-02-24 23:35:55.010 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 12515ms.
+2025-02-24 23:36:07.191 [info] Extracted extension to file:///home/chisco/.vscode-server/extensions/github.copilot-1.275.0: github.copilot
+2025-02-24 23:36:07.496 [info] Renamed to /home/chisco/.vscode-server/extensions/github.copilot-1.275.0
+2025-02-24 23:36:07.731 [info] Marked extension as removed github.copilot-1.272.0
+2025-02-24 23:36:07.936 [info] Extension installed successfully: github.copilot file:///home/chisco/.vscode-server/extensions/extensions.json
+2025-02-24 23:36:10.954 [info] [127.0.0.1][64869c04][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:21:02.647 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-25 00:21:02.796 [info] [127.0.0.1][c8e333e2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-25 00:25:44.795 [info] [127.0.0.1][c8e333e2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-25 00:25:44.857 [info] [127.0.0.1][64869c04][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:25:46.928 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:25:48.790 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has reconnected.
+2025-02-25 00:25:51.882 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-25 00:25:52.551 [info] [127.0.0.1][c8e333e2][ManagementConnection] The client has reconnected.
+2025-02-25 00:25:53.131 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-25 00:25:53.520 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:25:53.820 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:29:19.401 [info] [127.0.0.1][64869c04][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:29:20.017 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:29:21.137 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:29:31.530 [info] [127.0.0.1][c8e333e2][ManagementConnection] The client has reconnected.
+2025-02-25 00:29:32.277 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-25 00:29:33.057 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has reconnected.
+2025-02-25 00:29:34.234 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-25 00:29:34.595 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:44:24.505 [info] [127.0.0.1][2ef39875][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:50:17.477 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-25 00:50:18.300 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has reconnected.
+2025-02-25 00:50:18.970 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:50:19.681 [info] [127.0.0.1][c8e333e2][ManagementConnection] The client has reconnected.
+2025-02-25 00:50:20.139 [info] [127.0.0.1][64869c04][ExtensionHostConnection] The client has reconnected.
+2025-02-25 00:50:20.640 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has reconnected.
+2025-02-25 00:50:21.068 [info] [127.0.0.1][e4f0f9f0][ExtensionHostConnection] The client has reconnected.
+2025-02-25 01:33:02.269 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-02-25 01:59:29.071 [info] [127.0.0.1][a02bf86f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-25 01:59:29.506 [warning] No ptyHost heartbeat after 6 seconds
+2025-02-25 02:30:59.256 [info] [127.0.0.1][a02bf86f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-25 02:30:59.412 [info] [127.0.0.1][96a03749][ExtensionHostConnection] The client has reconnected.
+2025-02-25 02:31:02.020 [info] [127.0.0.1][64869c04][ExtensionHostConnection] The client has reconnected.
+2025-02-25 02:31:05.839 [info] [127.0.0.1][d26fc2cb][ManagementConnection] The client has reconnected.
+2025-02-25 02:31:08.343 [info] [127.0.0.1][c8e333e2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-25 02:31:08.348 [info] [127.0.0.1][f7b67829][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

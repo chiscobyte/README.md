@@ -1,0 +1,34 @@
+2025-02-25 16:16:44.829 [info] [main] Log level: Info
+2025-02-25 16:16:44.829 [info] [main] Validating found git in: "git"
+2025-02-25 16:16:44.830 [info] [main] Using git "2.48.1" from "git"
+2025-02-25 16:16:44.830 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-25 16:16:44.830 [info] > git rev-parse --show-toplevel [120ms]
+2025-02-25 16:16:44.830 [info] > git rev-parse --git-dir --git-common-dir [58ms]
+2025-02-25 16:16:44.830 [info] [Model][openRepository] Opened repository: /home/chisco/development/project/phase-0-html-document-structure-lab
+2025-02-25 16:16:44.830 [info] > git config --get commit.template [547ms]
+2025-02-25 16:16:44.830 [info] > git rev-parse --show-toplevel [513ms]
+2025-02-25 16:16:44.830 [info] > git rev-parse --show-toplevel [23ms]
+2025-02-25 16:16:44.830 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-25 16:16:44.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [218ms]
+2025-02-25 16:16:44.830 [info] > git status -z -uall [120ms]
+2025-02-25 16:16:44.830 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [49ms]
+2025-02-25 16:16:44.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [101ms]
+2025-02-25 16:16:44.830 [info] > git config --get commit.template [109ms]
+2025-02-25 16:16:44.832 [info] > git config --get --local branch.master.vscode-merge-base [38ms]
+2025-02-25 16:16:44.832 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [134ms]
+2025-02-25 16:16:44.832 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [200ms]
+2025-02-25 16:16:44.832 [info] > git merge-base refs/heads/master refs/remotes/origin/master [35ms]
+2025-02-25 16:16:44.832 [info] > git status -z -uall [78ms]
+2025-02-25 16:16:44.832 [info] > git diff --name-status -z --diff-filter=ADMR a40ff3a20996308c982c4e71f634dc7789edf692...refs/remotes/origin/master [167ms]
+2025-02-25 16:16:44.832 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2025-02-25 16:16:47.169 [info] > git check-ignore -v -z --stdin [28ms]
+2025-02-25 16:16:49.278 [info] > git check-ignore -v -z --stdin [21ms]
+2025-02-25 16:16:49.357 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [217ms]
+2025-02-25 16:16:54.365 [info] > git config --get commit.template [75ms]
+2025-02-25 16:16:54.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2025-02-25 16:16:54.505 [info] > git status -z -uall [41ms]
+2025-02-25 16:16:54.530 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2025-02-25 16:45:53.032 [info] > git show --textconv :index.html [9ms]
+2025-02-25 16:45:53.039 [info] > git ls-files --stage -- /home/chisco/development/project/phase-0-html-document-structure-lab/index.html [6ms]
+2025-02-25 16:45:53.051 [info] > git cat-file -s 54a82f8f4eb3d5c1a175331f05f388154caaeea1 [5ms]
+2025-02-25 16:45:53.140 [info] > git blame --root --incremental a40ff3a20996308c982c4e71f634dc7789edf692 -- /home/chisco/development/project/phase-0-html-document-structure-lab/index.html [8ms]

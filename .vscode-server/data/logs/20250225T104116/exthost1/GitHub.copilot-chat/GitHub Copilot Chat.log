@@ -1,0 +1,102 @@
+2025-02-25 10:44:39.367 [info] Can't use the Electron fetcher in this environment.
+2025-02-25 10:44:39.368 [info] Using the Node fetch fetcher.
+2025-02-25 10:44:39.368 [info] Initializing Git extension service.
+2025-02-25 10:44:39.369 [info] Successfully activated the vscode.git extension.
+2025-02-25 10:44:39.369 [info] Enablement state of the vscode.git extension: true.
+2025-02-25 10:44:39.369 [info] Successfully registered Git commit message provider.
+2025-02-25 10:45:04.115 [info] Logged in as chiscobyte
+2025-02-25 10:45:07.797 [warning] Invalid copilot token: missing token: 403 
+2025-02-25 10:45:07.861 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at u5.waitForChatEnabled (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:545:5388)
+    at u5.run (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:545:5107)
+    at py.askToUpgradeAuthPermissions (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:545:4545): Failed to get copilot token
+2025-02-25 10:45:07.861 [error] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as chiscobyte."
+2025-02-25 10:45:07.861 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-25 10:45:07.862 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2907)
+    at Object.o [as task] (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:640)
+    at Xd._processQueue (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:587:1056)
+2025-02-25 10:45:07.862 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-25 10:45:07.862 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2907)
+    at t (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2370)
+    at Oy._registerEmbeddings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2869)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at Xh.waitForActivationBlockers (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:433:1956)
+    at /home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:2358:4903
+    at Uhr (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:2358:4716)
+    at aw.n (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:4447)
+    at aw.m (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:4410)
+    at aw.l (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:3866)
+2025-02-25 10:45:07.876 [info] activationBlocker from 'languageModelAccess' took for 23987ms
+2025-02-25 10:45:26.319 [warning] [repo:nvm-sh/nvm] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 1ms. Query: text
+2025-02-25 10:45:27.850 [warning] [repo:nvm-sh/nvm] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 2ms. Query: text
+2025-02-25 10:45:29.910 [warning] [repo:nvm-sh/nvm] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 3ms. Query: text
+2025-02-25 10:45:30.017 [warning] [repo:nvm-sh/nvm] Max Retry Error thrown while querying 'text'
+2025-02-25 10:45:31.997 [warning] [repo:pyenv/pyenv] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 1ms. Query: text
+2025-02-25 10:45:33.792 [warning] [repo:pyenv/pyenv] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 2ms. Query: text
+2025-02-25 10:45:35.536 [warning] [repo:pyenv/pyenv] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 3ms. Query: text
+2025-02-25 10:45:35.637 [warning] [repo:pyenv/pyenv] Max Retry Error thrown while querying 'text'
+2025-02-25 11:29:08.300 [info] Logged in as chiscobyte
+2025-02-25 11:29:10.734 [warning] Invalid copilot token: missing token: 403 
+2025-02-25 11:29:10.746 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-25 11:29:10.747 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2907)
+    at Object.o [as task] (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:640)
+    at Xd._processQueue (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:587:1056)
+2025-02-25 11:57:07.443 [info] Logged in as chiscobyte
+2025-02-25 11:57:08.161 [warning] Invalid copilot token: missing token: 403 
+2025-02-25 11:57:08.163 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-25 11:57:08.164 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2907)
+    at Object.o [as task] (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:640)
+    at Xd._processQueue (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:587:1056)
+2025-02-25 12:13:39.298 [info] Logged in as chiscobyte
+2025-02-25 12:13:40.252 [warning] Invalid copilot token: missing token: 403 
+2025-02-25 12:13:40.255 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-25 12:13:40.255 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2907)
+    at Object.o [as task] (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:640)
+    at Xd._processQueue (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:587:1056)
+2025-02-25 12:30:15.423 [info] Logged in as chiscobyte
+2025-02-25 12:30:17.726 [warning] Invalid copilot token: missing token: 403 
+2025-02-25 12:30:17.745 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-25 12:30:17.747 [error] Error: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at By._authShowWarnings (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at By.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:2907)
+    at Object.o [as task] (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:588:640)
+    at Xd._processQueue (/home/chisco/.vscode-server/extensions/github.copilot-chat-0.24.1/dist/extension.js:587:1056)

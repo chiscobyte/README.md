@@ -1,0 +1,92 @@
+2025-02-24 23:35:45.928 [info] [certificates] Removed 1 expired certificates
+2025-02-24 23:36:17.542 [info] [auth] Invalid copilot token: missing token: 403 
+2025-02-24 23:36:17.721 [error] [ghostText] provideInlineCompletionItems: TokenResultError [CopilotAuthError]: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at Nue.fetchCopilotTokenEnvelope (/home/chisco/.vscode-server/extensions/github.copilot-1.272.0/lib/src/auth/copilotTokenManager.ts:77:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  cause: undefined,
+  result: {
+    kind: 'failure',
+    reason: 'NotAuthorized',
+    message: 'No access to GitHub Copilot found. You are currently logged in as chiscobyte.',
+    envelope: {
+      can_signup_for_limited: true,
+      error_details: [Object],
+      message: 'Resource not accessible by integration'
+    },
+    url: 'https://github.com/github-copilot/signup?editor={EDITOR}',
+    title: 'Sign up for GitHub Copilot',
+    notification_id: 'not_signed_up'
+  }
+}
+2025-02-24 23:36:17.721 [error] [ghostText] provideInlineCompletionItems: TokenResultError [CopilotAuthError]: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at Nue.fetchCopilotTokenEnvelope (/home/chisco/.vscode-server/extensions/github.copilot-1.272.0/lib/src/auth/copilotTokenManager.ts:77:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  cause: undefined,
+  result: {
+    kind: 'failure',
+    reason: 'NotAuthorized',
+    message: 'No access to GitHub Copilot found. You are currently logged in as chiscobyte.',
+    envelope: {
+      can_signup_for_limited: true,
+      error_details: [Object],
+      message: 'Resource not accessible by integration'
+    },
+    url: 'https://github.com/github-copilot/signup?editor={EDITOR}',
+    title: 'Sign up for GitHub Copilot',
+    notification_id: 'not_signed_up'
+  }
+}
+2025-02-24 23:36:17.722 [error] [ghostText] provideInlineCompletionItems: TokenResultError [CopilotAuthError]: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at Nue.fetchCopilotTokenEnvelope (/home/chisco/.vscode-server/extensions/github.copilot-1.272.0/lib/src/auth/copilotTokenManager.ts:77:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  cause: undefined,
+  result: {
+    kind: 'failure',
+    reason: 'NotAuthorized',
+    message: 'No access to GitHub Copilot found. You are currently logged in as chiscobyte.',
+    envelope: {
+      can_signup_for_limited: true,
+      error_details: [Object],
+      message: 'Resource not accessible by integration'
+    },
+    url: 'https://github.com/github-copilot/signup?editor={EDITOR}',
+    title: 'Sign up for GitHub Copilot',
+    notification_id: 'not_signed_up'
+  }
+}
+2025-02-24 23:36:17.722 [error] [ghostText] provideInlineCompletionItems: TokenResultError [CopilotAuthError]: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at Nue.fetchCopilotTokenEnvelope (/home/chisco/.vscode-server/extensions/github.copilot-1.272.0/lib/src/auth/copilotTokenManager.ts:77:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  cause: undefined,
+  result: {
+    kind: 'failure',
+    reason: 'NotAuthorized',
+    message: 'No access to GitHub Copilot found. You are currently logged in as chiscobyte.',
+    envelope: {
+      can_signup_for_limited: true,
+      error_details: [Object],
+      message: 'Resource not accessible by integration'
+    },
+    url: 'https://github.com/github-copilot/signup?editor={EDITOR}',
+    title: 'Sign up for GitHub Copilot',
+    notification_id: 'not_signed_up'
+  }
+}
+2025-02-24 23:36:17.722 [error] [ghostText] provideInlineCompletionItems: TokenResultError [CopilotAuthError]: No access to GitHub Copilot found. You are currently logged in as chiscobyte.
+    at Nue.fetchCopilotTokenEnvelope (/home/chisco/.vscode-server/extensions/github.copilot-1.272.0/lib/src/auth/copilotTokenManager.ts:77:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  cause: undefined,
+  result: {
+    kind: 'failure',
+    reason: 'NotAuthorized',
+    message: 'No access to GitHub Copilot found. You are currently logged in as chiscobyte.',
+    envelope: {
+      can_signup_for_limited: true,
+      error_details: [Object],
+      message: 'Resource not accessible by integration'
+    },
+    url: 'https://github.com/github-copilot/signup?editor={EDITOR}',
+    title: 'Sign up for GitHub Copilot',
+    notification_id: 'not_signed_up'
+  }
+}

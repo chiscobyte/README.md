@@ -1,0 +1,36 @@
+2025-02-25 10:41:16.801 [info] 
+
+
+
+
+2025-02-25 10:41:16.896 [info] Extension host agent started.
+2025-02-25 10:41:17.340 [info] [127.0.0.1][cdf25b8a][ManagementConnection] New connection established.
+2025-02-25 10:41:17.473 [info] Deleted marked for removal extension from disk github.copilot /home/chisco/.vscode-server/extensions/github.copilot-1.272.0
+2025-02-25 10:41:17.475 [info] Marked extension as removed github.copilot-1.272.0
+2025-02-25 10:41:19.091 [info] [127.0.0.1][cb3abc20][ManagementConnection] New connection established.
+2025-02-25 10:41:19.730 [info] [127.0.0.1][85517c3b][ManagementConnection] New connection established.
+2025-02-25 10:41:21.010 [info] [127.0.0.1][d853ca78][ManagementConnection] New connection established.
+2025-02-25 10:41:33.233 [info] [127.0.0.1][0e814413][ExtensionHostConnection] New connection established.
+2025-02-25 10:41:33.565 [info] [127.0.0.1][0e814413][ExtensionHostConnection] <954> Launched Extension Host Process.
+2025-02-25 10:41:38.239 [info] [127.0.0.1][1f568df9][ExtensionHostConnection] New connection established.
+2025-02-25 10:41:38.526 [info] [127.0.0.1][1f568df9][ExtensionHostConnection] <965> Launched Extension Host Process.
+2025-02-25 10:41:39.288 [info] [127.0.0.1][1cbc9b5e][ExtensionHostConnection] New connection established.
+2025-02-25 10:41:39.399 [info] [127.0.0.1][1cbc9b5e][ExtensionHostConnection] <976> Launched Extension Host Process.
+2025-02-25 10:41:53.145 [info] [127.0.0.1][d96da940][ExtensionHostConnection] New connection established.
+2025-02-25 10:41:53.191 [info] [127.0.0.1][d96da940][ExtensionHostConnection] <990> Launched Extension Host Process.
+2025-02-25 10:53:34.565 [info] [127.0.0.1][1f568df9][ExtensionHostConnection] The client has reconnected.
+2025-02-25 10:53:34.617 [info] [127.0.0.1][d96da940][ExtensionHostConnection] The client has reconnected.
+2025-02-25 10:53:37.909 [info] [127.0.0.1][85517c3b][ManagementConnection] The client has reconnected.
+2025-02-25 10:53:38.220 [info] [127.0.0.1][0e814413][ExtensionHostConnection] The client has reconnected.
+2025-02-25 10:53:38.818 [info] [127.0.0.1][d853ca78][ManagementConnection] The client has reconnected.
+2025-02-25 10:53:39.270 [info] [127.0.0.1][cdf25b8a][ManagementConnection] The client has reconnected.
+2025-02-25 10:53:39.638 [info] [127.0.0.1][cb3abc20][ManagementConnection] The client has reconnected.
+2025-02-25 10:53:41.068 [info] [127.0.0.1][1cbc9b5e][ExtensionHostConnection] The client has reconnected.
+2025-02-25 11:10:25.513 [info] [127.0.0.1][d853ca78][ManagementConnection] The client has reconnected.
+2025-02-25 11:10:25.869 [info] [127.0.0.1][1f568df9][ExtensionHostConnection] The client has reconnected.
+2025-02-25 11:10:27.310 [info] [127.0.0.1][1cbc9b5e][ExtensionHostConnection] The client has reconnected.
+2025-02-25 11:10:27.668 [info] [127.0.0.1][d96da940][ExtensionHostConnection] The client has reconnected.
+2025-02-25 11:10:27.671 [info] [127.0.0.1][cdf25b8a][ManagementConnection] The client has reconnected.
+2025-02-25 11:10:27.944 [info] [127.0.0.1][85517c3b][ManagementConnection] The client has reconnected.
+2025-02-25 11:10:28.220 [info] [127.0.0.1][0e814413][ExtensionHostConnection] The client has reconnected.
+2025-02-25 11:10:28.671 [info] [127.0.0.1][cb3abc20][ManagementConnection] The client has reconnected.

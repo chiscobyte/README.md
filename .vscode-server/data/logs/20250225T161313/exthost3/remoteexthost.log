@@ -1,0 +1,55 @@
+2025-02-25 16:14:54.198 [info] Extension host with pid 1192 started
+2025-02-25 16:14:54.199 [error] Error: EEXIST: file already exists, open '/home/chisco/.vscode-server/data/User/workspaceStorage/0c3951c6e9a43ec1a22642596d0ce31c/vscode.lock'
+2025-02-25 16:14:54.308 [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Ly (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:6160)
+    at async AI (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:5796)
+    at async pV.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:4657)
+    at async pV.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:10546)
+2025-02-25 16:14:54.308 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/0c3951c6e9a43ec1a22642596d0ce31c/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-02-25 16:14:54.398 [error] SyntaxError: Unexpected end of JSON input
+	at JSON.parse (<anonymous>)
+	at Ly (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:6160)
+	at async bV (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:6419)
+	at async pV.g (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:4657)
+	at async pV.h (file:///home/chisco/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:10546)
+2025-02-25 16:14:54.398 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/0c3951c6e9a43ec1a22642596d0ce31c/vscode.lock': Could not read pid of lock holder.
+2025-02-25 16:14:54.398 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/0c3951c6e9a43ec1a22642596d0ce31c/vscode.lock': Deleting a stale lock.
+2025-02-25 16:14:54.538 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/0c3951c6e9a43ec1a22642596d0ce31c/vscode.lock': Lock acquired.
+2025-02-25 16:15:01.371 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-02-25 16:15:01.391 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-02-25 16:15:01.393 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-25 16:15:01.407 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-25 16:15:03.709 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-02-25 16:15:07.354 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-02-25 16:15:07.356 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-02-25 16:15:11.394 [info] Eager extensions activated
+2025-02-25 16:15:11.409 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:11.413 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:11.427 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:11.443 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:11.459 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:16:26.727 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-25 16:16:26.729 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-25 16:16:26.751 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-02-25 16:35:18.610 [error] Error: spawn google-chrome ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-25 16:35:20.784 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-02-25 16:39:32.233 [error] Error: spawn google-chrome ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-25 16:41:02.909 [error] Error: spawn google-chrome ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-25 16:47:45.351 [error] Error: spawn google-chrome ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-25 16:48:31.726 [error] Error: spawn google-chrome ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)

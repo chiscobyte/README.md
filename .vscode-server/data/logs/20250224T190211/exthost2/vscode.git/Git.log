@@ -1,0 +1,143 @@
+2025-02-24 20:45:16.717 [info] [main] Log level: Info
+2025-02-24 20:45:16.717 [info] [main] Validating found git in: "git"
+2025-02-24 20:45:16.717 [info] [main] Using git "2.48.1" from "git"
+2025-02-24 20:45:16.717 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-24 20:45:16.717 [info] > git rev-parse --show-toplevel [1586ms]
+2025-02-24 20:45:16.717 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-02-24 20:45:16.717 [info] > git rev-parse --show-toplevel [27ms]
+2025-02-24 20:45:27.058 [info] > git rev-parse --show-toplevel [5ms]
+2025-02-24 20:45:31.450 [info] > git rev-parse --show-toplevel [35ms]
+2025-02-24 20:56:36.110 [info] > git rev-parse --show-toplevel [7ms]
+2025-02-24 20:56:36.135 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2025-02-24 20:56:36.283 [info] [Model][openRepository] Opened repository: /home/chisco/development/project/phase-0-html-experiencing-html-lab
+2025-02-24 20:56:36.342 [info] > git config --get commit.template [13ms]
+2025-02-24 20:56:36.360 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2025-02-24 20:56:36.377 [info] > git symbolic-ref --short HEAD [12ms]
+2025-02-24 20:56:36.377 [info] fatal: No such ref: HEAD
+2025-02-24 20:56:36.407 [info] > git rev-parse HEAD [10ms]
+2025-02-24 20:56:36.408 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-02-24 20:56:36.462 [info] > git status -z -uall [25ms]
+2025-02-24 20:56:36.467 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-02-24 20:56:36.492 [info] > git symbolic-ref --short HEAD [8ms]
+2025-02-24 20:56:36.493 [info] fatal: No such ref: HEAD
+2025-02-24 20:56:36.504 [info] > git config --get commit.template [13ms]
+2025-02-24 20:56:36.505 [info] > git rev-parse HEAD [3ms]
+2025-02-24 20:56:36.505 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-02-24 20:56:36.518 [info] > git status -z -uall [8ms]
+2025-02-24 20:56:36.520 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-24 20:56:37.066 [info] > git rev-parse --show-toplevel [5ms]
+2025-02-24 20:56:37.407 [info] > git check-ignore -v -z --stdin [7ms]
+2025-02-24 20:59:10.611 [info] > git rev-parse --show-toplevel [13ms]
+2025-02-24 22:37:28.009 [info] > git symbolic-ref --short HEAD [17ms]
+2025-02-24 22:37:28.032 [info] > git config --get commit.template [26ms]
+2025-02-24 22:37:28.038 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-02-24 22:37:28.088 [info] > git status -z -uall [22ms]
+2025-02-24 22:37:28.093 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-02-24 22:37:28.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-24 22:37:28.253 [info] > git config --get --local branch.master.vscode-merge-base [3ms]
+2025-02-24 22:37:28.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [4ms]
+2025-02-24 22:37:28.295 [info] > git merge-base refs/heads/master refs/remotes/origin/master [9ms]
+2025-02-24 22:37:28.315 [info] > git diff --name-status -z --diff-filter=ADMR ead63f6f9f033c24127333b94914babe86b63aea...refs/remotes/origin/master [7ms]
+2025-02-24 22:37:28.451 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [43ms]
+2025-02-24 22:37:33.292 [info] > git symbolic-ref --short HEAD [24ms]
+2025-02-24 22:37:33.318 [info] > git config --get commit.template [45ms]
+2025-02-24 22:37:33.323 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2025-02-24 22:37:33.365 [info] > git status -z -uall [21ms]
+2025-02-24 22:37:33.380 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2025-02-24 22:37:50.482 [info] > git rev-parse --show-toplevel [8ms]
+2025-02-24 22:51:40.805 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-24 22:51:42.154 [info] > git rev-parse --show-toplevel [4ms]
+2025-02-24 22:54:23.479 [info] > git check-ignore -v -z --stdin [8ms]
+2025-02-24 23:00:33.267 [info] > git rev-parse --show-toplevel [4ms]
+2025-02-24 23:00:33.277 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-02-24 23:00:33.288 [info] [Model][openRepository] Opened repository: /home/chisco/development/project/phase-0-html-document-structure-lab
+2025-02-24 23:00:33.306 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2025-02-24 23:00:33.314 [info] > git config --get commit.template [14ms]
+2025-02-24 23:00:33.317 [info] > git symbolic-ref --short HEAD [11ms]
+2025-02-24 23:00:33.317 [info] fatal: No such ref: HEAD
+2025-02-24 23:00:33.331 [info] > git rev-parse HEAD [7ms]
+2025-02-24 23:00:33.332 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-02-24 23:00:33.352 [info] > git status -z -uall [12ms]
+2025-02-24 23:00:33.356 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-02-24 23:00:33.386 [info] > git symbolic-ref --short HEAD [19ms]
+2025-02-24 23:00:33.387 [info] fatal: No such ref: HEAD
+2025-02-24 23:00:33.397 [info] > git config --get commit.template [18ms]
+2025-02-24 23:00:33.400 [info] > git rev-parse HEAD [5ms]
+2025-02-24 23:00:33.400 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-02-24 23:00:33.424 [info] > git status -z -uall [16ms]
+2025-02-24 23:00:33.426 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-02-24 23:00:34.469 [info] > git check-ignore -v -z --stdin [7ms]
+2025-02-24 23:00:34.472 [info] > git check-ignore -v -z --stdin [5ms]
+2025-02-24 23:02:13.426 [info] > git symbolic-ref --short HEAD [10ms]
+2025-02-24 23:02:13.436 [info] > git config --get commit.template [11ms]
+2025-02-24 23:02:13.440 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-24 23:02:13.450 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/chisco/development/project/phase-0-html-document-structure-lab/.git/refs/remotes/origin/master'
+2025-02-24 23:02:13.455 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2025-02-24 23:02:13.477 [info] > git status -z -uall [12ms]
+2025-02-24 23:02:13.480 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-24 23:02:13.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-24 23:02:13.515 [info] > git config --get --local branch.master.vscode-merge-base [2ms]
+2025-02-24 23:02:13.516 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-24 23:02:13.531 [info] > git reflog master --grep-reflog=branch: Created from *. [8ms]
+2025-02-24 23:02:13.561 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [11ms]
+2025-02-24 23:02:13.579 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [3ms]
+2025-02-24 23:02:13.613 [info] > git config --add --local branch.master.vscode-merge-base origin/master [20ms]
+2025-02-24 23:02:13.648 [info] > git config --get commit.template [3ms]
+2025-02-24 23:02:13.648 [info] > git symbolic-ref --short HEAD [26ms]
+2025-02-24 23:02:13.658 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-24 23:02:13.666 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/chisco/development/project/phase-0-html-document-structure-lab/.git/refs/remotes/origin/master'
+2025-02-24 23:02:13.670 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2025-02-24 23:02:13.685 [info] > git status -z -uall [7ms]
+2025-02-24 23:02:13.687 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-24 23:02:13.708 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2025-02-24 23:02:13.721 [info] > git config --get --local branch.master.vscode-merge-base [4ms]
+2025-02-24 23:02:13.730 [info] > git merge-base refs/heads/master refs/remotes/origin/master [24ms]
+2025-02-24 23:02:13.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [8ms]
+2025-02-24 23:02:13.752 [info] > git diff --name-status -z --diff-filter=ADMR c07b5e49b9dcb0a6bb2d2c6a05638e2a9c804d27...refs/remotes/origin/master [15ms]
+2025-02-24 23:02:13.756 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2025-02-24 23:02:13.768 [info] > git diff --name-status -z --diff-filter=ADMR c07b5e49b9dcb0a6bb2d2c6a05638e2a9c804d27...refs/remotes/origin/master [3ms]
+2025-02-24 23:02:14.126 [info] > git check-ignore -v -z --stdin [6ms]
+2025-02-24 23:02:18.547 [info] > git symbolic-ref --short HEAD [29ms]
+2025-02-24 23:02:18.563 [info] > git config --get commit.template [24ms]
+2025-02-24 23:02:18.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-02-24 23:02:18.579 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/chisco/development/project/phase-0-html-document-structure-lab/.git/refs/remotes/origin/master'
+2025-02-24 23:02:18.582 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2025-02-24 23:02:18.602 [info] > git status -z -uall [13ms]
+2025-02-24 23:02:18.605 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-02-24 23:02:19.225 [info] > git check-ignore -v -z --stdin [8ms]
+2025-02-24 23:02:22.052 [info] > git show --textconv :.github/workflows/canvas-sync-ruby-update.yml [13ms]
+2025-02-24 23:02:22.057 [info] > git ls-files --stage -- /home/chisco/development/project/phase-0-html-document-structure-lab/.github/workflows/canvas-sync-ruby-update.yml [7ms]
+2025-02-24 23:02:22.077 [info] > git cat-file -s f8818dc0c66b9e4ec0554fc1d555539f70838808 [5ms]
+2025-02-24 23:02:37.067 [info] > git rev-parse --show-toplevel [4ms]
+2025-02-24 23:03:41.890 [info] > git symbolic-ref --short HEAD [20ms]
+2025-02-24 23:03:41.905 [info] > git config --get commit.template [20ms]
+2025-02-24 23:03:41.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-02-24 23:03:41.926 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/chisco/development/project/phase-0-html-document-structure-lab/.git/refs/remotes/origin/master'
+2025-02-24 23:03:41.930 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2025-02-24 23:03:41.965 [info] > git status -z -uall [23ms]
+2025-02-24 23:03:41.969 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-02-24 23:35:27.936 [info] > git rev-parse --show-toplevel [20ms]
+2025-02-24 23:38:26.457 [info] > git rev-parse --show-toplevel [33ms]
+2025-02-24 23:38:26.465 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-24 23:40:25.213 [info] > git rev-parse --show-toplevel [4ms]
+2025-02-25 00:15:50.815 [info] > git symbolic-ref --short HEAD [44ms]
+2025-02-25 00:15:50.835 [info] > git config --get commit.template [31ms]
+2025-02-25 00:15:50.844 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2025-02-25 00:15:50.880 [info] > git status -z -uall [22ms]
+2025-02-25 00:15:50.880 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-02-25 00:15:51.092 [info] > git merge-base refs/heads/master refs/remotes/origin/master [107ms]
+2025-02-25 00:15:51.170 [info] > git diff --name-status -z --diff-filter=ADMR a40ff3a20996308c982c4e71f634dc7789edf692...refs/remotes/origin/master [61ms]
+2025-02-25 00:15:52.455 [info] > git rev-parse --show-toplevel [18ms]
+2025-02-25 00:15:56.053 [info] > git symbolic-ref --short HEAD [29ms]
+2025-02-25 00:15:56.076 [info] > git config --get commit.template [27ms]
+2025-02-25 00:15:56.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2025-02-25 00:15:56.123 [info] > git status -z -uall [22ms]
+2025-02-25 00:15:56.153 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]

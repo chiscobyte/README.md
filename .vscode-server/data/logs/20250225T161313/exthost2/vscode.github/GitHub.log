@@ -1,0 +1,3 @@
+2025-02-25 16:16:44.812 [info] Log level: Info
+2025-02-25 16:17:00.736 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for chiscobyte/phase-0-html-document-structure-lab: Error: No GitHub authentication session available.
+2025-02-25 16:17:00.737 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.

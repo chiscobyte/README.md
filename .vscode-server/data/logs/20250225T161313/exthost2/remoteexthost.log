@@ -1,0 +1,23 @@
+2025-02-25 16:15:02.445 [info] Extension host with pid 1172 started
+2025-02-25 16:15:02.445 [error] Error: EEXIST: file already exists, open '/home/chisco/.vscode-server/data/User/workspaceStorage/b00f074bdabe4d8c12c7d1d431e9754c/vscode.lock'
+2025-02-25 16:15:02.575 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/b00f074bdabe4d8c12c7d1d431e9754c/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-02-25 16:15:02.663 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/b00f074bdabe4d8c12c7d1d431e9754c/vscode.lock': The pid 954 appears to be gone.
+2025-02-25 16:15:02.663 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/b00f074bdabe4d8c12c7d1d431e9754c/vscode.lock': Deleting a stale lock.
+2025-02-25 16:15:02.795 [info] Lock '/home/chisco/.vscode-server/data/User/workspaceStorage/b00f074bdabe4d8c12c7d1d431e9754c/vscode.lock': Lock acquired.
+2025-02-25 16:15:08.830 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-25 16:15:08.860 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-02-25 16:15:08.863 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-02-25 16:15:08.865 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-25 16:15:11.131 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-02-25 16:15:24.275 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:24.284 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:24.294 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:24.297 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:15:24.311 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-25 16:16:08.474 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-02-25 16:16:08.479 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-02-25 16:16:33.735 [info] Eager extensions activated
+2025-02-25 16:35:27.422 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-02-25 16:45:10.939 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-25 16:45:10.951 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-25 16:45:10.952 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
